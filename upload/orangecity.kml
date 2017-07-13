@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="i1331121571">
+
+	<name>Document_0001</name>
+	<open>1</open>
+	<atom:author>
+		<atom:name>Created using KML Builder</atom:name>
+		<atom:uri>http://www.northgates.ca/kmlbuilder</atom:uri>
+	</atom:author>
+	<Placemark>
+		<name>Polygon_0002</name>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>fff5f5f5</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>8000ffff</color>
+			</PolyStyle>
+		</Style>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						79.08796312081188,21.14570550633239,0 79.08806693815923,21.1459571264974,0 79.08840086054491,21.14599635877474,0 79.08846492269278,21.14569499458529,0 79.08829333290709,21.14554562801914,0 79.08796312081188,21.14570550633239,0 79.08796312081188,21.14570550633239,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="i1331123103">
+		<name>orangecity</name>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://www.northgates.ca/earthplugin/images/pin48.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>79.08815626084427,21.14584099178547,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

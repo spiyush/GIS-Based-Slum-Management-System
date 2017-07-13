@@ -1,0 +1,27 @@
+.container_12 {
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+        margin-bottom: 4%;
+        margin-top: 4%;
+}
+.grid_12{
+	display: inline;
+	float: left;
+	position: relative;
+}
+#layer-div{
+display: inline;
+float: right;
+}
+.container_12 .grid_12 {
+	width: 88%;
+}
+.container_13 #layer-div {
+    margin-top: -630px;
+    text-align: left;
+    float: right;
+    width: 180px;
+}
+#upload{padding-left: 10px;text-align:left; font-size:20px;}
+#upload-table{text-align: left;}
